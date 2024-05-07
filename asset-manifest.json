@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Date-Time-React/static/css/main.561b6422.css",
+    "main.js": "/Date-Time-React/static/js/main.5be63e62.js",
+    "index.html": "/Date-Time-React/index.html",
+    "main.561b6422.css.map": "/Date-Time-React/static/css/main.561b6422.css.map",
+    "main.5be63e62.js.map": "/Date-Time-React/static/js/main.5be63e62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561b6422.css",
+    "static/js/main.5be63e62.js"
+  ]
+}
